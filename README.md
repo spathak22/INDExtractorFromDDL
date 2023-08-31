@@ -1,2 +1,2 @@
 # INDExtractorFromDDL
-Tool to derive includion dependency from the input DDL statements
+Tool to derive inclusion dependency from the input DDL statements
